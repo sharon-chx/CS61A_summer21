@@ -1,5 +1,3 @@
-#Below is for Cats project: https://cs61a.org/proj/cats/. Only contains codes for the problems.
-
 """Typing test implementation"""
 
 from utils import lower, split, remove_punctuation, lines_from_file
